@@ -89,6 +89,7 @@ android_library {
         "WifiTrackerLib",
         "SettingsLibActivityEmbedding",
         "custom-preference",
+        "VendorSupport-preference",
     ],
 
     libs: [
